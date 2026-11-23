@@ -34,10 +34,10 @@ Objetivos:
 
 ## Desarrollo:
 ### Preguntas 1 y 3: Funcionalidades:
-<img src="IMAGEN1-funcionalidades.png" width="400">
+<img src="IMAGEN1-funcionalidades.png" width="500">
 
 ### Pregunta 2: Modelo E-R
-<img src="IMAGEN2-modelo-E-R.png" width="400">
+<img src="IMAGEN2-modelo-E-R.png" width="500">
 
 ### Pregunta 4: Elementos:
 Para estudiar la BD, de cada elemento se necesita saber:
