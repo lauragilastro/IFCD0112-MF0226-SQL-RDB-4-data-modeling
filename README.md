@@ -78,6 +78,7 @@ CREATE UNIQUE INDEX uq_chofer_vehiculo ON choferes(num_vehiculo);
 
 #### Extra:
 Esta imagen son las tablas de manera visual con ejemplos de datos llenos. La hice para ver si podían haber problemas de dependencia funcional y cumplir con la teoría de la normalización y ya que está pues lo adjunto para facilitar la corrección.
+
 <img src="IMAGEN4-tabla-visual.png" width="600">
 
 ## Feedback del profesor:
