@@ -17,4 +17,4 @@ SELECT vehiculos.num_vehiculo, vehiculos.matricula, vehiculos.tipo_vehiculo
 FROM vehiculos
 LEFT JOIN choferes ON choferes.num_vehiculo = vehiculos.num_vehiculo
 WHERE choferes.num_chofer IS NULL;
---Igual, muestra los vehículos sin chófer.
+-- Igual, muestra los vehículos sin chófer.
